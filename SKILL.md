@@ -3,7 +3,7 @@ name: cris-content-ia
 description: >
   Cria conteúdo sobre Inteligência Artificial (IA aplicada a negócios, ferramentas, tendências de mercado e IA para criadores) adaptado para Instagram, LinkedIn e TikTok — no posicionamento de Cris Magalhães como AI Business Architect e Vibe Coder.
   Use sempre que a usuária pedir para criar, gerar, escrever ou planejar posts, captions, roteiros, reels, vídeos, calendário editorial ou conteúdo de redes sociais sobre IA. Também aciona quando mencionar Instagram, LinkedIn, TikTok junto com IA, ou pedir "post sobre IA", "conteúdo para feed", "roteiro de TikTok", "copy do LinkedIn" ou "calendário de conteúdo IA".
-  Entrega arquivos .html ou .md prontos para download com caption + hashtags, roteiro completo com orientações visuais, ou calendário editorial — conforme o pedido
+  Entrega arquivos .html ou .md prontos para download com caption + hashtags, roteiro completo com orientações visuais, ou calendário editorial — conforme o pedido.
 ---
  
 # Skill: Cris Content IA
